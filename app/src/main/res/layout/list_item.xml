@@ -23,7 +23,7 @@
         android:layout_height="2dp"
         android:paddingLeft="8dp"
         android:paddingRight="8dp"
-        android:background="@android:"/>
+        android:background="@android:color/darker_gray"/>
 
 
 </LinearLayout>
